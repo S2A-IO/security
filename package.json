@@ -1,0 +1,32 @@
+{
+  "name": "@s2a/security",
+  "version": "1.0.0",
+  "description": "Security related updates for S2A related apps",
+  "keywords": [
+    "Security",
+    "escape special characters"
+  ],
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/S2A-IO/security.git"
+  },
+  "scripts": {},
+  "author": {
+    "name": "RIKSOF (Private) Limited",
+    "email": "info@riksof.com"
+  },
+  "contributors": [
+    {
+      "name": "Awais Khan",
+      "email": "info@riksof.com"
+    }
+  ],
+  "homepage": "https://s2a.io",
+  "dependencies": {
+  },
+  "peerDependencies": {
+  },
+  "devDependencies": {
+  }
+}
